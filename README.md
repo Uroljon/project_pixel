@@ -1,5 +1,5 @@
 # Creative pixel website
 
 - single page
-- Pure HTML, CSS, JS
+- HTML, CSS, bootstrap framework
 - Light, fast, responsive mini-website
